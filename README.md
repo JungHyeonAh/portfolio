@@ -1,6 +1,6 @@
 # portfolio
 
-Github : 
+Github : <br>
 Email : baemmogoi@gmail.com
 
 
